@@ -1,6 +1,6 @@
 # 🚀 Formação Power BI - Meus Projetos
 
-Este repositório reúne todos os projetos desenvolvidos ao longo da minha formação em **Power BI** pela [DIO.me](https://www.dio.me).  
+Este repositório reúne todos os projetos desenvolvidos ao longo da minha formação em **Power BI Analyst** pela [DIO.me](https://www.dio.me).  
 Cada projeto tem como objetivo reforçar os conhecimentos adquiridos e aplicar na prática as principais ferramentas e recursos do Power BI.
 
 ---
