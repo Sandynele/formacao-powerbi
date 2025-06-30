@@ -1,7 +1,7 @@
 # 🚀 Formação Power BI - Meus Projetos
 
-Este repositório reúne todos os projetos desenvolvidos ao longo da minha formação em **Power BI Analyst** pela [DIO.me](https://www.dio.me).  
-Cada projeto tem como objetivo reforçar os conhecimentos adquiridos e aplicar na prática as principais ferramentas e recursos do Power BI.
+Este repositório reúne os projetos desenvolvidos ao longo da minha formação em **Power BI** pela [DIO.me](https://www.dio.me).  
+Cada projeto tem como objetivo aplicar na prática os conceitos aprendidos durante o curso.
 
 ---
 
@@ -9,8 +9,7 @@ Cada projeto tem como objetivo reforçar os conhecimentos adquiridos e aplicar n
 
 ### 📊 [Dashboard de Vendas](./dashboard-vendas)
 
-> Projeto que consiste na criação de um painel de vendas com as principais métricas comerciais, como faturamento total, ticket médio, quantidade de vendas e análise por região e produto.  
-Inclui o PDF explicativo e capturas de tela do dashboard final.
+> Criação de um painel com as principais métricas de vendas: faturamento, ticket médio, quantidade de vendas e análise por produto e região.
 
 📁 `/dashboard-vendas`
 
@@ -18,34 +17,27 @@ Inclui o PDF explicativo e capturas de tela do dashboard final.
 
 ### 📘 [Relatório Interativo com Botões e Segmentadores](./relatorio-interativo)
 
-> Projeto voltado para a criação de um relatório com navegação por botões, visuais alternativos, segmentadores e publicação no Power BI Service.  
-O foco foi em usabilidade, interatividade e experiência do usuário.
+> Desenvolvimento de um relatório com páginas interativas, navegação por botões, visuais alternativos e publicação no Power BI Service.
 
 📁 `/relatorio-interativo`
 
 ---
 
-## 📚 Tecnologias e Ferramentas
+## 🛠️ Ferramentas e Conceitos
 
-- Power BI Desktop
-- Power BI Service
-- DAX
-- Visualização de Dados
-- Design de Dashboards
-- Experiência do Usuário (UX)
-
----
-
-## 🌱 Em andamento
-
-Mais projetos serão adicionados conforme avanço na formação.  
-Sinta-se à vontade para acompanhar, comentar ou contribuir!
+- Power BI Desktop e Power BI Service
+- DAX e modelagem de dados
+- UX para dashboards
+- Segmentadores e visuais interativos
+- Publicação e compartilhamento
 
 ---
 
-📌 GitHub: [@Sandynele](https://github.com/Sandynele)  
-📌 LinkedIn: [Seu LinkedIn aqui, se quiser]
+## 📌 Sobre mim
+
+GitHub: [@Sandynele](https://github.com/Sandynele)  
+LinkedIn: [Seu LinkedIn aqui]
 
 ---
 
-**#PowerBI #DataAnalytics #BusinessIntelligence #Formação #PortfólioDeDados #GitHub**
+**#PowerBI #DataAnalytics #PortfólioDeDados #GitHub #BusinessIntelligence**
